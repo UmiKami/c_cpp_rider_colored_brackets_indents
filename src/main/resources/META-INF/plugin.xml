@@ -3,7 +3,7 @@
     <name>C/C++ Colored Brackets</name>
     <vendor>UmiKami</vendor>
     <description><![CDATA[
-    Colors matching bracket pairs in C/C++ files by nesting level, like VS Code's bracket pair colorization.
+    Colors matching bracket pairs in C/C++ files by nesting level.
     <ul>
       <li>4 levels by default. Add more colors to color deeper levels, or turn on repeating colors.</li>
       <li>Change the color order, and choose which bracket types to color: ( ), [ ], { } and template &lt; &gt;.</li>
